@@ -1,9 +1,7 @@
 # UniTorServer
- 
-![Iphone Diuo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYI8wJaKG6ueWYIAMCGBH4GE59wa0rsyUcAZxivZO8FS2uzUJJwTh9gg&s=10)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTiK2g71Qm-4wzGESyGh_n6RV5YEZG9Cunmflr5dHmLlUCxMSiw2HfcvE&s=10)
 
-[Seed del mondo.](https://www.chunkbase.com/apps/seed-map#seed=-3286398261818102328&platform=java_26_3&dimension=overworld&x=4354&z=-1878&zoom=0.388)
+<img src="https://www.chunkbase.com/apps/seed-map#seed=-3286398261818102328&platform=java_26_3&dimension=overworld&x=4354&z=-1878&zoom=0.388" width="400">
+
 
 
 __Coordinate Utili:__
