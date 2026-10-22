@@ -6,7 +6,9 @@
 
 
 ### __Coordinate Utili:__
-* **BASE:** _-2030, / ,-1800_
-* 
+* **BASE:** _-2030 / -1800_
+
+## Nether
+* **PORTALE END:** _-122 59 -285_ 
 
 ![Iphone Diuo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTiK2g71Qm-4wzGESyGh_n6RV5YEZG9Cunmflr5dHmLlUCxMSiw2HfcvE&s=10)
